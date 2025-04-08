@@ -26,6 +26,33 @@
       "modifiedAt": "2023-12-01T15:30:00",
       "tags": "ý tưởng,dự án,thói quen",
       "color": "#FFFF69B4"
+    },
+    {
+      "title": "Lịch trình tập gym",
+      "content": "Tập gym thứ 2, 4, 6; cardio thứ 3 và 5.",
+      "priority": 2,
+      "createdAt": "2024-01-10T07:00:00",
+      "modifiedAt": "2024-01-10T07:30:00",
+      "tags": "sức khỏe,thể thao,gym",
+      "color": "#FF90EE90"
+    },
+    {
+      "title": "Họp nhóm dự án",
+      "content": "Chuẩn bị nội dung thuyết trình và demo chức năng chính.",
+      "priority": 1,
+      "createdAt": "2024-02-15T14:00:00",
+      "modifiedAt": "2024-02-15T14:45:00",
+      "tags": "họp,dự án,thuyết trình",
+      "color": "#FF87CEFA"
+    },
+    {
+      "title": "Danh sách mua sắm",
+      "content": "Sữa, bánh mì, rau xanh, thịt gà, cà phê.",
+      "priority": 3,
+      "createdAt": "2024-03-05T18:30:00",
+      "modifiedAt": "2024-03-05T19:00:00",
+      "tags": "mua sắm,siêu thị",
+      "color": "#FFFFFFE0"
     }
   ]
 }
